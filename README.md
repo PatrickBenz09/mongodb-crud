@@ -1,4 +1,4 @@
-# mongodb-crud App
+# MongoDB-Crud App
 
 Demo app for basic MongoDB with Representational state transfer (REST)
 
