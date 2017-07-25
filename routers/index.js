@@ -4,7 +4,7 @@ const express = require('express');
 const router = express.Router();
 
 router.get('/', (req, res) => {
-  res.send('hay')
+  res.send('Hello World of NoSQL!')
 });
 
 module.exports = router;
