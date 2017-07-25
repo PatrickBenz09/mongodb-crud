@@ -10,7 +10,7 @@ List of basic routes:
 | ----------- |:----:| ---------------------------:|
 | /           | GET  | Print Hello World of NoSQL! |
 
-List of user routes:
+List of book routes:
 
 | Route       | HTTP    | Description                        |
 | ----------- |:-------:| :----------------------------------|
@@ -18,4 +18,4 @@ List of user routes:
 | /book       |GET      | Get all books info                 |
 | /book/:id   |GET      | Get a single book info             |
 | /book/:id   |DELETE   | Delete a single book               |
-| /book:id    |PUT      | Update a single book with new info |
+| /book/:id   |PUT      | Update a single book with new info |
